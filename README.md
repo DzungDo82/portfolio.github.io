@@ -39,8 +39,8 @@ In this section, I will outline the processes for implementing machine learning,
 
 ## Education
 
-**Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology
-**Bachelor of Architecture** – Van Lang University in Vietnam
+- **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology
+- **Bachelor of Architecture** – Van Lang University in Vietnam
 
 ## Contact
 - Email: kate.do.pham@gmail.com
