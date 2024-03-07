@@ -11,7 +11,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
 
 - [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects---using-sql-python-spark-and-aws)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
-	+ [Click-Through Rate (CTR) project](#click-through-rate-(ctr)-project)
+	+ [Click-Through Rate (CTR) project](#click-through-rate-ctr-project)
 	+ [Profit Forecasting of the online store](#progit-forecasting)
 	+ [E-Commerce sales (Customer-Centric Business Intelligence)](#e-commerce-rfm)
 	+ [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
