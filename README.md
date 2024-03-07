@@ -37,3 +37,11 @@ In this section, I will outline the processes for implementing machine learning,
 **- Technology:** Python - Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
 **- Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
+## Education
+
+**Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology
+**Bachelor of Architecture** – Van Lang University in Vietnam
+
+## Contact
+- Email: kate.do.pham@gmail.com
+- LinkedIn: https://www.linkedin.com/in/dzung-do-4a25b3234/
