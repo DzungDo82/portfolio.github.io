@@ -11,7 +11,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
 
 - [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects---using-sql-python-spark-and-aws)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
-	+ [Click-Through Rate (CTR) project](#ctr)
+	+ [Click-Through Rate (CTR) project](#click-through-rate-(ctr)-project)
 	+ [Profit Forecasting of the online store](#progit-forecasting)
 	+ [E-Commerce sales (Customer-Centric Business Intelligence)](#e-commerce-rfm)
 	+ [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
@@ -27,7 +27,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
 	+ [Movie Rental Stores Analysis](#movie-rental)
 	+ [Retail Loyalty Program Analysis](#retail-loyalty)
 
-## Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS
+## Machine Learning, Deep Learning and Big Data projects
 In this section, I will outline the processes for implementing machine learning, deep learning, and Big Data projects based on my experience with each project.
 
 ### Customer Churn Prediction in Telecom
@@ -37,8 +37,14 @@ In this section, I will outline the processes for implementing machine learning,
 **- Technology:** Python - Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
 **- Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
-## Education
+### Click-Through Rate (CTR) project
+**- Link:** [`Telecom_Churn`](https://github.com/DzungDo82/TeleChurn)    
+**- Description:** Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.  
+**- Skills:** Utilized SQL Alchemy for connection and table loading from SQL, performed feature engineering, binning, visualization, data cleaning, and conducted model training, incorporating techniques such as holdout cross-validation, baseline model establishment, pipeline, grid search, K-fold validation, metrics (scaling (StandardScaler, RobustScaler, MinMaxScaler, OneHotEncoder), sampling (SMOTE, RandomUnderSampler, and RandomOverSampler), and implementing classifier models.<br>
+**- Technology:** Python - SQL Alchemy, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics (recall_score, f1_score, precision_score, roc_curve, roc_auc_score, classification_report, confusion_matrix, accuracy_score), and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
+**- Results:** Designed table schemas and assembled a modeling dataset with more than 2.4 million rows and 24 columns, filled missing values, addressed the imbalanced dataset (92% vs. 8%), and selected the best model combination - StandardScaler + SMOTE + RandomForestClassifier, achieving a 73% accuracy score.
 
+## Education
 - **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology
 - **Bachelor of Architecture** – Van Lang University in Vietnam
 
