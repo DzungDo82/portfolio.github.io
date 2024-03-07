@@ -33,7 +33,7 @@ In this section, I will outline the processes for implementing machine learning,
 ### Customer Churn Prediction in Telecom
 **Link:** [`Telecom_Churn`](https://github.com/DzungDo82/TeleChurn)    
 **Description:** Developed and implemented predictive analytics models for customer churn, with a focus on identifying and prioritizing potential defectors for targeted customer retention efforts.  
-**Skills:** Loading the data, Exploratory Data Analysis (EDA): data visualization - correlation heatmap, correlating categorical features, and correlating numerical features, Feature engineering, Model training - Spliting (train and test dataset), evaluating important levels of features for each model, grid search, scaling, baseline model comparison,  pipeline, sampling, and combining sacler, sampler and model.
-**Technology:** Python - Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)
+**Skills:** Loading the data, Exploratory Data Analysis (EDA): data visualization - correlation heatmap, correlating categorical features, and correlating numerical features, Feature engineering, Model training - Spliting (train and test dataset), evaluating important levels of features for each model, grid search, scaling, baseline model comparison,  pipeline, sampling, and combining sacler, sampler and model.<br>
+**Technology:** Python - Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
 **Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
