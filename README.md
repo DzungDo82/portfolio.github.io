@@ -4,13 +4,13 @@
 
 Hi, I'm Dzung Do! As a strong data analytics and science professional, I possess profound skills in Python, SQL, Power BI, Tableau, Excel, and AWS. Utilizing advanced tools, I inform strategic decisions and foster innovation by deriving actionable insights from analytical methods and predictive models. Committed to teamwork, excellence, and exceeding expectations, I bring a dedicated and collaborative approach to any project, ensuring the seamless integration of data-driven solutions.
 
-Welcome to my portfolio website
+Welcome to my Portfolio website
 https://dzungdo82.github.io/portfolio.github.io/
 
 Or feel free to explore my Key Portfolio Projects on my GitHub.
 
 - [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#ml-dl-bigdt)
-	+ [Customer Churn Prediction in Telecom](#telechurn)
+	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
 	+ [Click-Through Rate (CTR) project](#ctr)
 	+ [Profit Forecasting of the online store](#progit-forecasting)
 	+ [E-Commerce sales (Customer-Centric Business Intelligence)](#e-commerce-rfm)
