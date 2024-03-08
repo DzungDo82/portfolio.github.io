@@ -7,7 +7,7 @@ Hi, I'm Dzung Do! As a strong data analytics and science professional, I possess
 Welcome to my Portfolio website
 https://dzungdo82.github.io/portfolio.github.io/
 
-Or feel free to explore my Key Portfolio Projects on my GitHub.
+Or feel free to explore my **Key Portfolio Projects** on my GitHub.
 
 - [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects---using-sql-python-spark-and-aws)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
