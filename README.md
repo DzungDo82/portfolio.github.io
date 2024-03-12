@@ -49,11 +49,18 @@ In this section, I will outline the processes for implementing machine learning,
 **- Results:** Skilled in handling imbalanced datasets (92% vs. 8%) and discovered the optimal combination of Standard Scaler + SMOTE + Random Forest Classifier, achieving a predictive accuracy score of 73%.
 
 ### Profit Forecasting of the online store
-**- Link:** [`Profit Forecasting`](https://github.com/DzungDo82/Profit_Forecasting/blob/main/Profit_Forecasting_Presentation.pdf)
+**- Link:** [`Profit Forecasting`](https://github.com/DzungDo82/Profit_Forecasting/blob/main/Profit_Forecasting_Presentation.pdf) <br>
 **- Description:** Aimed to employ time series forecasting techniques to predict sales and profit, leveraging the patterns and characteristics extracted from the time series analysis of the superstore's historical data.<br>
 **- Skills:** Studied forecasting methods and subsequently analyzed the concepts, pros, and cons of time series models.<br>
 **- Technology:** Python - applied ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal AutoRegressive Integrated Moving Average) models to predict the profit for the next year.<br>
-**- Results:** Studied a new concept - forecasting methods, and subsequently analyzed the concepts, pros vs. cons of time series, successfully applying new models from start to finish the project within 2 weeks
+**- Results:** Studied a new concept - forecasting methods, and subsequently analyzed the concepts, pros vs. cons of time series, successfully applying new models from start to finish the project within 2 weeks.
+
+### E-Commerce sales (Customer-Centric Business Intelligence)
+**- Link:** [`Customer metrics - RFM`](https://github.com/DzungDo82/Ecommerce_RFM/blob/main/RFM_Presentation.pdf) <br>
+**- Description:** Leveraged the E-Commerce dataset, conducted customer segmentation to optimize marketing strategies and uncover insights into sales trends, customer behavior, and product popularity for the business specializing in unique products.<br>
+**- Skills:** Applied the RFM (recency, frequency, and monetary factors) model, identifying three to five crucial client groups, and then advanced to predict customer loyalty levels using Deep Learning methods.<br>
+**- Technology:** Utilized KMeans Clustering to RFM results for Silhouette score and used scikit-learn and TensorFlow for deep learning.<br>
+**- Results:** Successfully aligned business objectives with quantifiable metrics, resulting in more effective and targeted marketing strategies when implementing the RFM model, which evaluates customer behavior, and 100% achieved predicted loyal customer levels – high vs. low with a new dataset.
 
 ## Education
 - **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology<br>
