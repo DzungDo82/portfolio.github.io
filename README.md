@@ -42,21 +42,21 @@ In this section, I will outline the processes for implementing machine learning,
 **- Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
 ### Click-Through Rate (CTR) project
-**- Link:** [`Click-Through Rate`](https://github.com/DzungDo82/Click-Through-Rate/blob/main/CTR_presentation.pdf)
+**- Link:** [`Click-Through Rate`](https://github.com/DzungDo82/Click-Through-Rate)
 **- Description:** Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.<br>
 **- Skills:** Designed table schemas, assembled a modeling dataset of over 2 million rows, connected two tools, loaded data, conducted feature engineering, binning, visualization, data cleaning, and model training.<br>
 **- Technology:** SQL, Python - SQL Alchemy, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
 **- Results:** Skilled in handling imbalanced datasets (92% vs. 8%) and discovered the optimal combination of Standard Scaler + SMOTE + Random Forest Classifier, achieving a predictive accuracy score of 73%.
 
 ### Profit Forecasting of the online store
-**- Link:** [`Profit Forecasting`](https://github.com/DzungDo82/Profit_Forecasting/blob/main/Profit_Forecasting_Presentation.pdf) <br>
+**- Link:** [`Profit Forecasting`](https://github.com/DzungDo82/Profit_Forecasting) <br>
 **- Description:** Aimed to employ time series forecasting techniques to predict sales and profit, leveraging the patterns and characteristics extracted from the time series analysis of the superstore's historical data.<br>
 **- Skills:** Studied forecasting methods and subsequently analyzed the concepts, pros, and cons of time series models.<br>
 **- Technology:** Python - applied ARIMA (AutoRegressive Integrated Moving Average) and SARIMA (Seasonal AutoRegressive Integrated Moving Average) models to predict the profit for the next year.<br>
 **- Results:** Studied a new concept - forecasting methods, and subsequently analyzed the concepts, pros vs. cons of time series, successfully applying new models from start to finish the project within 2 weeks.
 
 ### E-Commerce sales (Customer-Centric Business Intelligence)
-**- Link:** [`Customer metrics - RFM`](https://github.com/DzungDo82/Ecommerce_RFM/blob/main/RFM_Presentation.pdf) <br>
+**- Link:** [`Customer metrics - RFM`](https://github.com/DzungDo82/Ecommerce_RFM) <br>
 **- Description:** Leveraged the E-Commerce dataset, conducted customer segmentation to optimize marketing strategies and uncover insights into sales trends, customer behavior, and product popularity for the business specializing in unique products.<br>
 **- Skills:** Applied the RFM (recency, frequency, and monetary factors) model, identifying three to five crucial client groups, and then advanced to predict customer loyalty levels using Deep Learning methods.<br>
 **- Technology:** Utilized KMeans Clustering to RFM results for Silhouette score and used scikit-learn and TensorFlow for deep learning.<br>
