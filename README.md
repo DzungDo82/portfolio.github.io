@@ -62,6 +62,13 @@ In this section, I will outline the processes for implementing machine learning,
 **- Technology:** Utilized KMeans Clustering to RFM results for Silhouette score and used scikit-learn and TensorFlow for deep learning.<br>
 **- Results:** Successfully aligned business objectives with quantifiable metrics, resulting in more effective and targeted marketing strategies when implementing the RFM model, which evaluates customer behavior, and 100% achieved predicted loyal customer levels – high vs. low with a new dataset.
 
+### Twitter Sentiment Analysis
+**- Link:** [`Twitter Sentiment Analysis`](https://github.com/DzungDo82/Twitter_BigData) <br>
+**- Description:** Selected the topic 'Black Friday' and analyzed user sentiment (positive, negative, neutral) along with exploring the relationship between followers and tweets for the top 10 users..<br>
+**- Skills:** Trained sentiment classification, read tweets from S3, generated predictions, and integrated them into the Quicksight dashboard for analysis.<br>
+**- Technology:** EC2, S3, Athena, and Quicksight on AWS, and Spark on Databricks<br>
+**- Results:** Managed the big data project and integraged multiple tools.
+
 ## Education
 - **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology<br>
 - **Bachelor of Architecture** – Van Lang University in Vietnam
