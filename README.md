@@ -9,7 +9,7 @@ https://dzungdo82.github.io/portfolio.github.io/
 
 Or feel free to explore my Key Portfolio Projects on my GitHub.
 
-- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects-using-sql-python-spark-and-aws)
+- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
 	+ [Click-Through Rate (CTR) project](#click-through-rate-ctr-project)
 	+ [Profit Forecasting of the online store](#profit-forecasting-of-the-online-store)
@@ -42,15 +42,15 @@ In this section, I will outline the processes for implementing machine learning,
 **- Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
 ### Click-Through Rate (CTR) project
-**- Link:** [`Click-Through Rate project`](https://github.com/DzungDo82/Click-Through-Rate)    
-**- Description:** Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.
-**- Skills:** Designed table schemas, assembled a modeling dataset of over 2 million rows, connected two tools, loaded data, conducted feature engineering, binning, visualization, data cleaning, and model training.
+**- Link:** [`Click-Through Rate project`](https://github.com/DzungDo82/Click-Through-Rate/blob/main/CTR_presentation.pdf)
+**- Description:** Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.<br>
+**- Skills:** Designed table schemas, assembled a modeling dataset of over 2 million rows, connected two tools, loaded data, conducted feature engineering, binning, visualization, data cleaning, and model training.<br>
 **- Technology:** SQL, Python - SQL Alchemy, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
 **- Results:** Skilled in handling imbalanced datasets (92% vs. 8%) and discovered the optimal combination of Standard Scaler + SMOTE + Random Forest Classifier, achieving a predictive accuracy score of 73%.
 
 ## Education
-**- Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology
-**- Bachelor of Architecture** – Van Lang University in Vietnam
+- **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology<br>
+- **Bachelor of Architecture** – Van Lang University in Vietnam
 
 ## Contacts
 - LinkedIn: www.linkedin.com/in/dzungdo29
