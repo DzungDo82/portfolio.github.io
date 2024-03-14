@@ -42,7 +42,7 @@ In this section, I will outline the processes for implementing machine learning,
 **- Results:** Selected 75% of relevant features for model training and achieved a 96% predictive accuracy with the Random Forest Classifier.
 
 ### Click-Through Rate (CTR) project
-**- Link:** [`Click-Through Rate`](https://github.com/DzungDo82/Click-Through-Rate)
+**- Link:** [`Click-Through Rate`](https://github.com/DzungDo82/Click-Through-Rate) <br>
 **- Description:** Measured the click-through rate by comparing the number of clicks on an ad within the payment app to the number of impressions it received.<br>
 **- Skills:** Designed table schemas, assembled a modeling dataset of over 2 million rows, connected two tools, loaded data, conducted feature engineering, binning, visualization, data cleaning, and model training.<br>
 **- Technology:** SQL, Python - SQL Alchemy, Pandas, Numpy, Seaborn, Matplotlib, scikit-learn preprocessing, metrics, and models (Imbalanced-learn, F1 score, accuracy score, confusion matrix, Logistic Regression, Decision Tree, KNeighbors, XGBoost, Random Forest, etc.)<br>
