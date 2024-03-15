@@ -31,7 +31,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
   
 - [Contacts](#contacts)
 
-## 1 Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS
+## 1. Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS
 In this section, I will outline the processes for implementing machine learning, deep learning, and Big Data projects based on my experience with each project.
 
 ### 1.1 Customer Churn Prediction in Telecom
@@ -69,7 +69,7 @@ In this section, I will outline the processes for implementing machine learning,
 **- Technology:** EC2, S3, Athena, and Quicksight on AWS, and Spark on Databricks<br>
 **- Results:** Managed the big data project and integraged multiple tools.
 
-## 2 Visualization and Analysis projects - using Excel, Power BI, and Tabbleau
+## 2. Visualization and Analysis projects - using Excel, Power BI, and Tabbleau
 In this section, you can take a tour to explore some of my visualization projects.
 
 ### 2.1 Sales Data of Online Sport Store
@@ -95,7 +95,7 @@ In this section, you can take a tour to explore some of my visualization project
 **- Description:** The dataset comprises monthly Uber pick-up records from April to July 2014, supplemented by additional data providing corresponding weather information for the same period.<br>
 **- Results:** Identified high-density Uber pick-up locations during workday rush hours, optimizing service distribution and enhancing operational efficiency. Additionally, discovered a significant correlation between temperature fluctuations and Uber trip numbers, enabling strategic scheduling and resource allocation to meet fluctuating demand effectively.
 
-## 3 SQL projects
+## 3. SQL projects
 In this section, the business concerns are addressed with SQL queries ranging from basic to advanced.
 
 ### 3.1 Airbnb listings Analysis
