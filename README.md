@@ -9,7 +9,7 @@ https://dzungdo82.github.io/portfolio.github.io/
 
 Or feel free to explore my Key Portfolio Projects on my GitHub.
 
-- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects)
+- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#machine-learning-deep-learning-and-big-data-projects-using-sql-python-spark-and-aws)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
 	+ [Click-Through Rate (CTR) project](#click-through-rate-ctr-project)
 	+ [Profit Forecasting of the online store](#profit-forecasting-of-the-online-store)
@@ -17,9 +17,9 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
 	+ [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
 
 - [Visualization and Analysis projects - using Excel, Power BI, and Tabbleau](#visualization-and-analysis-projects-using-excel-power-bi-and-tabbleau)
-	+ [Employee Performance Metrics](#employee-performance-metrics)
 	+ [Sales Data of Online Sport Store](#sales-data-of-online-sport-store)
 	+ [Sales Data of Online Supermarket](#sales-data-of-online-supermarket)
+	+ [Employee Performance Metrics](#employee-performance-metrics)
 	+ [Uber Density in New York](#uber-density-in-new-york)
 
 - [SQL projects](#sql-projects)
@@ -31,7 +31,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
   
 - [Contacts](#contacts)
 
-## Machine Learning, Deep Learning and Big Data projects
+## Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS
 In this section, I will outline the processes for implementing machine learning, deep learning, and Big Data projects based on my experience with each project.
 
 ### Customer Churn Prediction in Telecom
@@ -64,10 +64,39 @@ In this section, I will outline the processes for implementing machine learning,
 
 ### Twitter Sentiment Analysis
 **- Link:** [`Twitter Sentiment Analysis`](https://github.com/DzungDo82/Twitter_BigData) <br>
-**- Description:** Selected the topic 'Black Friday' and analyzed user sentiment (positive, negative, neutral) along with exploring the relationship between followers and tweets for the top 10 users..<br>
+**- Description:** Selected the topic 'Black Friday' and analyzed user sentiment (positive, negative, neutral) along with exploring the relationship between followers and tweets for the top 10 users.<br>
 **- Skills:** Trained sentiment classification, read tweets from S3, generated predictions, and integrated them into the Quicksight dashboard for analysis.<br>
 **- Technology:** EC2, S3, Athena, and Quicksight on AWS, and Spark on Databricks<br>
 **- Results:** Managed the big data project and integraged multiple tools.
+
+## Visualization and Analysis projects - using Excel, Power BI, and Tabbleau
+In this section, you can take a tour to explore some of my visualization projects.
+
+### Sales Data of Online Sport Store
+**- Link:** [`Sales Data of Online Sport Store`](https://github.com/DzungDo82/Visual_sport_store) <br>
+**- Description:** The online sport store required a solution for monitoring key performance indicators (sales, revenue, profit, returns), evaluating regional performance, analyzing trends and forecasts at the product level, and identifying high-value customers.<br>
+**- Skills:** Created table relationships in a snowflake schema, established hierarchies based on geography, category, and date, and implemented DAX measures.<br>
+**- Results:** The project highlighted the importance of tracking and analyzing sales data over time to identify trends and patterns, emphasizing the value of timely and comprehensive data visualization in understanding business performance, and facilitating informed decision-making.
+
+### Sales Data of Online Supermarket
+**- Link:** [`Sales Data of Online Supermarket`](https://github.com/DzungDo82/Visual_online_market) <br>
+**- Description:** The online market, a multinational business, managed a diverse portfolio of grocery stores across the United States, Canada, and Mexico, with a focus on expansion and operational diversity.<br>
+**- Skills:** Managed the implementation of a visualization task that identified three key factors: the type of data (time-series, financial, categorical, hierarchical, etc.), the preferred mode of communication (comparison, composition, distribution, or relationship), and the intended audience (manager, executive, or client), in order to generate an appropriate and effective data report.<br>
+**- Results:** Overall, surpassed transaction and profit targets by 5.69% and 5.6% respectively, underscoring the market's strong financial viability. Despite challenges in Canada, maintained consistent performance in the US and Mexico, highlighting adaptability and resilience in diverse market environments.
+
+### Employee Performance Metrics
+**- Link:** [`Employee Performance Metrics`](https://github.com/DzungDo82/Visual_employee_metric) <br>
+**- Description:** The company addressed declining performance indexes to identify root causes without adversely affecting employee morale, leveraging insights for strategic interventions.<br>
+**- Skills:** Analyzed job satisfaction levels and their correlation with attrition rates, highlighting group disparities and enabling targeted interventions.<br>
+**- Results:** The implementation of predictive analytics enabled the accurate forecasting of attrition rates based on crucial employee features.
+
+### Uber Density in New York
+**- Link:** [`Uber Density in New York`](https://github.com/DzungDo82/Visual_Uber_NY) <br>
+**- Description:** The dataset comprises monthly Uber pick-up records from April to July 2014, supplemented by additional data providing corresponding weather information for the same period.<br>
+**- Results:** Identified high-density Uber pick-up locations during workday rush hours, optimizing service distribution and enhancing operational efficiency. Additionally, discovered a significant correlation between temperature fluctuations and Uber trip numbers, enabling strategic scheduling and resource allocation to meet fluctuating demand effectively.
+
+## SQL projects
+In this section, the business concerns are addressed with SQL queries ranging from basic to advanced.
 
 ## Education
 - **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology<br>
