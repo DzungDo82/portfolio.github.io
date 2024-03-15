@@ -98,6 +98,21 @@ In this section, you can take a tour to explore some of my visualization project
 ## SQL projects
 In this section, the business concerns are addressed with SQL queries ranging from basic to advanced.
 
+### Airbnb listings Analysis
+**- Link:** [`Airbnb listings Analysis`](https://github.com/DzungDo82/SQL_Airbnb) <br>
+**- Description:** Determined the total number of unique listings in the calendar table, providing an overview of listing diversity.<br>
+**- Results:** Proficiently utilized pivot tables and subqueries in SQL to identify the city with the highest number of listings and analyzed calendar table listings to discern price discrepancies between weekends and weekdays, providing valuable insights into pricing strategies.
+
+### Movie Rental Stores Analysis
+**- Link:** [`Movie Rental Stores Analysis`](https://github.com/DzungDo82/SQL_Movie) <br>
+**- Description:** The database was designed to represent a DVD rental store in early 2005.<br>
+**- Results:** Analyzed sales data for rental volumes and monthly rental volumes, evaluated inventory levels by creating reports with film names and categories; assessed revenue from payments by month and each store, identifying unpopular movies for potential sale.
+
+### Retail Loyalty Program Analysis
+**- Link:** [`Retail Loyalty Program Analysis`](https://github.com/DzungDo82/SQL_Loyalty) <br>
+**- Description:** Utilized SQL to create and analyze a database, answering business questions on sales performance, store rankings, and customer loyalty.<br>
+**- Results:** Analyzed transactions with negative sales/units, assessed transaction table span, and evaluated monthly and yearly sales growth, alongside store performance, loyalty program effectiveness, and top-performing stores and product categories based on provincial performance.
+
 ## Education
 - **Applied Data Science and Big Data Diploma** – Toronto Institute of Data Science and Technology<br>
 - **Bachelor of Architecture** – Van Lang University in Vietnam
