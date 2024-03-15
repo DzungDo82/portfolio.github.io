@@ -31,7 +31,7 @@ Or feel free to explore my Key Portfolio Projects on my GitHub.
   
 - [Contacts](#contacts)
 
-## 1. 
+ 
 ## Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS
 In this section, I will outline the processes for implementing machine learning, deep learning, and Big Data projects based on my experience with each project.
 
