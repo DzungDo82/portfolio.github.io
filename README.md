@@ -9,7 +9,7 @@ https://dzungdo82.github.io/portfolio.github.io/
 
 Or feel free to explore my Key Portfolio Projects on my GitHub.
 
-- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#1-machine-learning-deep-learning-and-big-data-projects-using-sql-python-spark-and-aws)
+- [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#1.-machine-learning-deep-learning-and-big-data-projects-using-sql-python-spark-and-aws)
 	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
 	+ [Click-Through Rate (CTR) project](#click-through-rate-ctr-project)
 	+ [Profit Forecasting of the online store](#profit-forecasting-of-the-online-store)
