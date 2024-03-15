@@ -10,22 +10,22 @@ https://dzungdo82.github.io/portfolio.github.io/
 Or feel free to explore my Key Portfolio Projects on my GitHub.
 
 - [Machine Learning, Deep Learning and Big Data projects - using SQL, Python, Spark, and AWS](#1-machine-learning-deep-learning-and-big-data-projects)
-	+ [Customer Churn Prediction in Telecom](#customer-churn-prediction-in-telecom)
-	+ [Click-Through Rate (CTR) project](#click-through-rate-ctr-project)
-	+ [Profit Forecasting of the online store](#profit-forecasting-of-the-online-store)
-	+ [E-Commerce sales (Customer-Centric Business Intelligence)](#e-commerce-sales-customer-centric-business-intelligence)
-	+ [Twitter Sentiment Analysis](#twitter-sentiment-analysis)
+	+ [Customer Churn Prediction in Telecom](#11-customer-churn-prediction-in-telecom)
+	+ [Click-Through Rate (CTR) project](#12-click-through-rate-ctr-project)
+	+ [Profit Forecasting of the online store](#13-profit-forecasting-of-the-online-store)
+	+ [E-Commerce sales (Customer-Centric Business Intelligence)](#14-e-commerce-sales-customer-centric-business-intelligence)
+	+ [Twitter Sentiment Analysis](#15-twitter-sentiment-analysis)
 
-- [Visualization and Analysis projects - using Excel, Power BI, and Tabbleau](#visualization-and-analysis-projects-using-excel-power-bi-and-tabbleau)
-	+ [Sales Data of Online Sport Store](#sales-data-of-online-sport-store)
-	+ [Sales Data of Online Supermarket](#sales-data-of-online-supermarket)
-	+ [Employee Performance Metrics](#employee-performance-metrics)
-	+ [Uber Density in New York](#uber-density-in-new-york)
+- [Visualization and Analysis projects - using Excel, Power BI, and Tabbleau](#2-visualization-and-analysis-projects)
+	+ [Sales Data of Online Sport Store](#21-sales-data-of-online-sport-store)
+	+ [Sales Data of Online Supermarket](#22-sales-data-of-online-supermarket)
+	+ [Employee Performance Metrics](#23-employee-performance-metrics)
+	+ [Uber Density in New York](#24-uber-density-in-new-york)
 
-- [SQL projects](#sql-projects)
-	+ [Airbnb listings Analysis](#airbnb-listings-analysis)
-	+ [Movie Rental Stores Analysis](#movie-rental-stores-analysis)
-	+ [Retail Loyalty Program Analysis](#retail-loyalty-program-analysis)
+- [SQL projects](#3-sql-projects)
+	+ [Airbnb listings Analysis](#31-airbnb-listings-analysis)
+	+ [Movie Rental Stores Analysis](#32-movie-rental-stores-analysis)
+	+ [Retail Loyalty Program Analysis](#33-retail-loyalty-program-analysis)
 
 - [Education](#education)
   
@@ -71,7 +71,8 @@ In this section, I will outline the processes for implementing machine learning,
 **- Technology:** EC2, S3, Athena, and Quicksight on AWS, and Spark on Databricks<br>
 **- Results:** Managed the big data project and integraged multiple tools.
 
-## 2. Visualization and Analysis projects - using Excel, Power BI, and Tabbleau
+## 2. Visualization and Analysis projects
+### Tools used: Excel, Power BI, and Tabbleau
 In this section, you can take a tour to explore some of my visualization projects.
 
 ### 2.1 Sales Data of Online Sport Store
