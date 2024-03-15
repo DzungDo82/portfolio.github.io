@@ -124,4 +124,4 @@ In this section, the business concerns are addressed with SQL queries ranging fr
 - LinkedIn: www.linkedin.com/in/dzungdo29
 - E-mail: kate.do.pham@gmail.com
 
-  [Top](#about-me)
+- [Top](#about-me)
