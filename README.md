@@ -81,7 +81,7 @@ In this section, you can take a tour to explore some of my visualization project
 **- Skills:** Created table relationships in a snowflake schema, established hierarchies based on geography, category, and date, and implemented DAX measures.<br>
 **- Results:** The project highlighted the importance of tracking and analyzing sales data over time to identify trends and patterns, emphasizing the value of timely and comprehensive data visualization in understanding business performance, and facilitating informed decision-making.
 
-### 2.1 Sales Data of Online Supermarket
+### 2.2 Sales Data of Online Supermarket
 **- Link:** [`Sales Data of Online Supermarket`](https://github.com/DzungDo82/Visual_online_market) <br>
 **- Description:** The online market, a multinational business, managed a diverse portfolio of grocery stores across the United States, Canada, and Mexico, with a focus on expansion and operational diversity.<br>
 **- Skills:** Managed the implementation of a visualization task that identified three key factors: the type of data (time-series, financial, categorical, hierarchical, etc.), the preferred mode of communication (comparison, composition, distribution, or relationship), and the intended audience (manager, executive, or client), in order to generate an appropriate and effective data report.<br>
